@@ -1,0 +1,29 @@
+html {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+header {
+  width: 80%;
+  text-align: center;
+  margin-top: 4rem;
+  margin-inline: auto;
+}
+
+#logo {
+  position: absolute;
+  width: 150px;
+  top: 0;
+  left: 5;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+}
+
+#mage-img {
+  margin: auto;
+  width: 50%;
+  min-width: 500px;
+}
